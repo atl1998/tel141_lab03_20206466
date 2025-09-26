@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#script orquestador fase 1
+#script orquestador fase 1, ejecutar como "bash vm_orquestador_fase1.sh"
 set -euo pipefail
 
 PASS="adrian123"

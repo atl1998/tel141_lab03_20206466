@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# vm_create.sh (versión mínima corregida)
+# se trabaja en root y por eso la ubicacion de disco se cambia
 # Uso: ./vm_create.sh <NombreVM> <NombreOVS> <VLAN_ID> <PuertoVNC>
 
 VM_NAME=$1
